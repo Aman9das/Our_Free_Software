@@ -14,6 +14,6 @@ Right now we are looking to [collect](https://github.com/Aman9das/Our_Free_Softw
 
 Feel free to join the [discussions](https://github.com/Aman9das/Our_Free_Software/discussions/1) and suggest ideas.
 
-## Meet the team
+## Meet the team!
 
 We also have a [Matrix Room](https://matrix.to/#/#Our_Free_Software:matrix.org). Feel free to ask questions and hang out here. :smiley:
