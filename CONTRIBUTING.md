@@ -6,7 +6,7 @@ It's hard. It's always hard the first time you do something. Especially when you
 
 The content is created in markdown right now. It is fairly simple to learn [here](https://www.markdowntutorial.com/).
 
-New to github? It is fairly simple to learn to contribute [here](https://github.com/firstcontributions/first-contributions).
+New to github? It is fairly simple to learn to contribute [here](https://github.com/firstcontributions/first-contributions). Mobile users might also want to read the [mobile guide](Guides/Mobile_Github_Guide.md).
 
 ## Help us out!
 
